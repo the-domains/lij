@@ -6,13 +6,13 @@ color:
     - '#010101'
     - '#FEFEFE'
     - '#FBFBFB'
-  brandStrength: 0.5606884369626641
-  lightness: 0.22010562126524746
-  rhythmicContrast: 0.0804285469930619
-  saturation: 0.42696958128362894
+  brandStrength: 0.560688
+  lightness: 0.220105
+  rhythmicContrast: 0.080428
+  saturation: 0.426969
 cta: {}
-layout_spectrum: 0.33795349299907684
+layout_spectrum: 0.146396
 name: lij
 opengraph: {}
 purpose: []
-typography_spectrum: 0.30497472267597914
+typography_spectrum: 0.692567
