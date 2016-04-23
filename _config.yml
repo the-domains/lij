@@ -1,28 +1,18 @@
-name: lij
-favicon: null
-layout_spectrum: 0.33795349299907684
-typography_spectrum: 0.30497472267597914
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#000000'
+    - '#010101'
+    - '#FEFEFE'
+    - '#FBFBFB'
   brandStrength: 0.5606884369626641
   lightness: 0.22010562126524746
-  saturation: 0.42696958128362894
   rhythmicContrast: 0.0804285469930619
+  saturation: 0.42696958128362894
+cta: {}
+layout_spectrum: 0.33795349299907684
+name: lij
+opengraph: {}
 purpose: []
+typography_spectrum: 0.30497472267597914
