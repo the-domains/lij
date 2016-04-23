@@ -1,4 +1,20 @@
-analytics: {}
+name: lij
+favicon: null
+layout_spectrum: 0.146396
+typography_spectrum: 0.692567
+title: lij
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -8,11 +24,6 @@ color:
     - '#FBFBFB'
   brandStrength: 0.560688
   lightness: 0.220105
-  rhythmicContrast: 0.080428
   saturation: 0.426969
-cta: {}
-layout_spectrum: 0.146396
-name: lij
-opengraph: {}
+  rhythmicContrast: 0.080428
 purpose: []
-typography_spectrum: 0.692567
